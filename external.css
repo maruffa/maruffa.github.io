@@ -1,0 +1,10 @@
+﻿
+#page-wrap { width: 90%;
+     	     margin: 0 auto; }
+
+#border    { border-left: 200px solid #ff9900;
+	     border-right: 200px solid #ff9900;
+	     margin-left: 30px;
+	     margin-right: 30px; }
+
+*change border to background of entire webpage
